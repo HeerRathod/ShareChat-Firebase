@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>222383906673-4p080hc9d4l3mb59rvk19f5sn8r3f46s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.222383906673-4p080hc9d4l3mb59rvk19f5sn8r3f46s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3QWX9q4YUDuxrrhLVGkAAGnREGTymBWw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>222383906673</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Hiren.ShareChat</string>
+	<key>PROJECT_ID</key>
+	<string>myfirstfirebaseapp-2da81</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myfirstfirebaseapp-2da81.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:222383906673:ios:63de9e0fa200bf3d</string>
+	<key>DATABASE_URL</key>
+	<string>https://myfirstfirebaseapp-2da81.firebaseio.com</string>
+</dict>
+</plist>
